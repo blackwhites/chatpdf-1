@@ -1,0 +1,51 @@
+:root {
+  --blue-text:#0066cc;
+  --blue: #0071e3;
+  --black-text: #1d1d1f;
+}
+
+html {
+  line-height: 1.5;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
+body {
+  margin: 0;
+  padding: 0
+}
+
+ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,hgroup,p,blockquote,figure,form,fieldset,input,legend,pre,abbr,button {
+  margin: 0;
+  padding: 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #1d1d1f;
+}
+
+a {
+  text-decoration: none;
+  color: #1d1d1f;
+}
+button {
+  text-transform: none;
+}
+
+fieldset,iframe {
+  border: 0
+}
+
+caption,th {
+  text-align: left
+}
+
+.flex-grow-1 {
+  flex-grow: 1 !important
+}
+
+.flex-grow-0 {
+  flex-grow: 0 !important
+}
+
