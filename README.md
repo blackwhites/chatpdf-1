@@ -1,3 +1,4 @@
+[English](./README_EN.md)
 ## ChatPDF
 ![preview](./preview/index.png)
 
