@@ -11,7 +11,7 @@ ChatPDF 是一个开源项目，你可以在部署此项目后，通过私有 op
 ## 技术栈
 
 - 前端：React + Antd + tailwindCss
-- 后端：Python + FastAPI
+- 后端：Python + FastAPI + MySQL + Redis(optional)
 - AI: langchain + llama_index
 
 ## 特性
