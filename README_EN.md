@@ -8,7 +8,7 @@ ChatPDF is an open-source project. After deploying this project, you can freely 
 
 ## Technology Stack
 
-- Frontend: React + Antd + tailwindCss
+- Frontend: React + Antd + tailwindCSS
 - Backend: Python + FastAPI
 - AI: langchain + llama_index
 
